@@ -52,7 +52,7 @@
 | 모델링 | scikit-learn, XGBoost, LightGBM, CatBoost |
 | 해석 | SHAP, Feature Importance, VIF |
 | 통계 | Local Moran's I, 순열검정, BH-FDR, Bonferroni, 초기하 정확검정 |
-| 최적화 | 최적화 | NetworkX (네트워크 경로 · 다익스트라),LP/MIP(분지한계법), GRASP, Tabu Search  |
+| 최적화 | NetworkX(네트워크 경로·다익스트라), LP/MIP(분지한계법), GRASP, Tabu Search |
 | 자격 | SQLD — SQL 개발자 (한국데이터산업진흥원, 2025.12.12) |
 
 ---
